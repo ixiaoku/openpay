@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/dbpay/dbpay.iml" filepath="$PROJECT_DIR$/db/dbpay/dbpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openpay.iml" filepath="$PROJECT_DIR$/openpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/pay/pay.iml" filepath="$PROJECT_DIR$/service/pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/pre/pre.iml" filepath="$PROJECT_DIR$/web/pre/pre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/query/query.iml" filepath="$PROJECT_DIR$/service/query/query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/trade/trade.iml" filepath="$PROJECT_DIR$/service/trade/trade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

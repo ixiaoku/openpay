@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="dbpay" />
+        <module name="pay" />
+        <module name="pre" />
+        <module name="query" />
+        <module name="trade" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.7" />
+      <module name="db" target="1.7" />
+      <module name="dbpay" target="1.7" />
+      <module name="openpay" target="1.8" />
+      <module name="pay" target="1.7" />
+      <module name="pre" target="1.7" />
+      <module name="query" target="1.7" />
+      <module name="service" target="1.7" />
+      <module name="trade" target="1.7" />
+      <module name="web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
